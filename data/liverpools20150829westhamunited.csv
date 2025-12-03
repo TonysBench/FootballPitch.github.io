@@ -1,0 +1,15 @@
+index,team,minute,timestamp,player,shot_statsbomb_xg,type,location,shot_end_location,shot_outcome
+3139,Liverpool,6,00:06:36.254,Philippe Coutinho Correia,0.020134374,Shot,"[96.8, 25.1]","[120.0, 59.5, 6.0]",Off T
+3140,Liverpool,8,00:08:07.847,Roberto Firmino Barbosa de Oliveira,0.026663369,Shot,"[91.2, 40.5]","[120.0, 36.0, 2.0]",Post
+3142,Liverpool,24,00:24:34.768,Joe Gomez,0.016134378,Shot,"[87.2, 39.3]","[102.9, 37.4]",Blocked
+3147,Liverpool,38,00:38:53.130,Philippe Coutinho Correia,0.09707857,Shot,"[105.2, 36.5]","[108.0, 38.0]",Blocked
+3148,Liverpool,49,00:04:15.221,Philippe Coutinho Correia,0.006660026,Shot,"[86.2, 51.8]","[120.0, 37.4, 3.8]",Off T
+3149,Liverpool,50,00:05:54.779,Roberto Firmino Barbosa de Oliveira,0.025803665,Shot,"[95.9, 55.8]","[97.8, 55.3]",Blocked
+3150,Liverpool,54,00:09:09.917,Dejan Lovren,0.005804953,Shot,"[84.7, 28.0]","[118.8, 36.6, 0.5]",Saved
+3151,Liverpool,58,00:13:14.747,Christian Benteke Liolo,0.08932116,Shot,"[101.3, 44.3]","[101.9, 44.1]",Blocked
+3152,Liverpool,63,00:18:17.113,James Philip Milner,0.056240078,Shot,"[99.9, 43.4]","[120.0, 34.2, 0.6]",Off T
+3158,Liverpool,82,00:37:03.037,James Philip Milner,0.24241178,Shot,"[113.3, 46.7]","[113.8, 46.7]",Blocked
+3159,Liverpool,82,00:37:48.937,Christian Benteke Liolo,0.05567153,Shot,"[111.0, 36.3]","[113.6, 46.4]",Wayward
+3160,Liverpool,82,00:37:49.586,Dejan Lovren,0.26416558,Shot,"[115.4, 45.9]","[119.9, 46.5, 5.7]",Off T
+3162,Liverpool,93,00:48:17.728,Christian Benteke Liolo,0.08879311,Shot,"[111.7, 39.2]","[120.0, 46.0, 0.8]",Off T
+3163,Liverpool,94,00:49:37.067,Daniel William John Ings,0.06257524,Shot,"[98.6, 31.6]","[101.7, 34.6]",Blocked

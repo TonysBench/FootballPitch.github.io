@@ -1,0 +1,20 @@
+index,team,minute,timestamp,player,shot_statsbomb_xg,type,location,shot_end_location,shot_outcome
+3375,Liverpool,3,00:03:31.335,Jordon Ibe,0.025042407,Shot,"[97.9, 29.3]","[120.0, 48.8, 2.0]",Off T
+3377,Liverpool,23,00:23:27.405,Christian Benteke Liolo,0.024777286,Shot,"[92.5, 30.5]","[120.0, 48.5, 2.7]",Off T
+3378,Liverpool,25,00:25:49.290,Christian Benteke Liolo,0.57907337,Shot,"[116.4, 43.4]","[120.0, 43.4, 1.8]",Goal
+3379,Liverpool,28,00:28:25.821,Jordan Brian Henderson,0.023597114,Shot,"[94.6, 45.4]","[120.0, 38.1, 3.0]",Post
+3380,Liverpool,30,00:30:14.565,Philippe Coutinho Correia,0.04903511,Shot,"[96.9, 41.6]","[98.1, 41.4]",Blocked
+3381,Liverpool,35,00:35:32.093,Adam David Lallana,0.048346218,Shot,"[93.7, 33.1]","[116.1, 40.2, 1.2]",Saved
+3382,Liverpool,43,00:43:15.933,Philippe Coutinho Correia,0.02610605,Shot,"[100.5, 54.2]","[102.5, 51.9]",Blocked
+3383,Liverpool,43,00:43:22.817,Philippe Coutinho Correia,0.12322622,Shot,"[104.8, 43.2]","[120.0, 33.4, 0.2]",Off T
+3387,Liverpool,50,00:05:08.900,Jordon Ibe,0.010115743,Shot,"[101.1, 20.8]","[120.0, 60.6, 3.6]",Off T
+3388,Liverpool,50,00:05:47.052,Philippe Coutinho Correia,0.05843259,Shot,"[98.4, 50.0]","[101.5, 48.8]",Blocked
+3389,Liverpool,54,00:09:01.133,James Philip Milner,0.18024924,Shot,"[110.5, 32.3]","[120.0, 49.9, 0.2]",Off T
+3394,Liverpool,67,00:22:49.327,Philippe Coutinho Correia,0.011369161,Shot,"[99.1, 58.7]","[105.9, 52.3]",Blocked
+3395,Liverpool,69,00:24:11.809,Philippe Coutinho Correia,0.05213687,Shot,"[105.6, 56.0]","[120.0, 29.5, 6.0]",Off T
+3396,Liverpool,71,00:26:11.850,Philippe Coutinho Correia,0.118142165,Shot,"[107.4, 38.9]","[108.2, 39.0]",Blocked
+3397,Liverpool,73,00:28:03.530,Philippe Coutinho Correia,0.10055553,Shot,"[103.4, 47.3]","[105.2, 46.5]",Blocked
+3403,Liverpool,87,00:42:40.861,Nathaniel Edwin Clyne,0.022818265,Shot,"[96.1, 54.5]","[120.0, 30.7, 0.3]",Off T
+3404,Liverpool,89,00:44:29.651,Christian Benteke Liolo,0.26658842,Shot,"[111.8, 42.0]","[118.2, 41.5, 2.0]",Saved to Post
+3405,Liverpool,89,00:44:32.682,Adam David Lallana,0.06310961,Shot,"[106.4, 47.2]","[120.0, 46.3, 4.1]",Off T
+3406,Liverpool,91,00:46:55.661,James Philip Milner,0.050806947,Shot,"[98.2, 35.1]","[120.0, 55.1, 3.8]",Off T

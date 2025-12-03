@@ -1,0 +1,19 @@
+index,team,minute,timestamp,player,shot_statsbomb_xg,type,location,shot_end_location,shot_outcome
+3715,Liverpool,1,00:01:35.553,Christian Benteke Liolo,0.06821079,Shot,"[107.3, 30.8]","[120.0, 34.4, 0.5]",Off T
+3716,Liverpool,2,00:02:18.046,Philippe Coutinho Correia,0.13439108,Shot,"[108.0, 48.2]","[120.0, 42.0, 2.8]",Post
+3719,Liverpool,8,00:08:54.564,Christian Benteke Liolo,0.052029558,Shot,"[110.6, 55.1]","[117.6, 44.6, 1.0]",Saved
+3721,Liverpool,13,00:13:41.765,James Philip Milner,0.031531822,Shot,"[108.5, 55.3]","[110.3, 53.2]",Blocked
+3722,Liverpool,14,00:14:48.927,Dejan Lovren,0.045988224,Shot,"[109.2, 40.5]","[117.2, 38.8]",Blocked
+3724,Liverpool,23,00:23:58.633,James Philip Milner,0.16320802,Shot,"[114.6, 31.4]","[118.3, 35.4, 0.3]",Saved
+3725,Liverpool,25,00:25:51.940,Nathaniel Edwin Clyne,0.04102502,Shot,"[102.1, 52.4]","[105.3, 50.0]",Blocked
+3727,Liverpool,34,00:34:51.827,Christian Benteke Liolo,0.05533009,Shot,"[109.6, 39.2]","[110.3, 39.3]",Blocked
+3728,Liverpool,38,00:38:12.243,Christian Benteke Liolo,0.49856853,Shot,"[113.9, 41.1]","[117.9, 41.7, 0.5]",Saved
+3729,Liverpool,38,00:38:51.675,Roberto Firmino Barbosa de Oliveira,0.013416295,Shot,"[112.3, 55.4]","[118.4, 44.3, 0.4]",Saved
+3730,Liverpool,39,00:39:18.749,Roberto Firmino Barbosa de Oliveira,0.047341608,Shot,"[103.1, 52.4]","[120.0, 26.2, 2.4]",Off T
+3731,Liverpool,43,00:43:55.556,Christian Benteke Liolo,0.048366886,Shot,"[107.7, 41.4]","[110.5, 22.9]",Wayward
+3732,Liverpool,44,00:44:03.262,Philippe Coutinho Correia,0.0121428,Shot,"[108.5, 22.5]","[120.0, 44.1, 1.6]",Post
+3737,Liverpool,60,00:15:22.216,Philippe Coutinho Correia,0.04365819,Shot,"[93.0, 38.7]","[115.2, 38.2, 0.2]",Saved
+3742,Liverpool,70,00:25:21.593,James Philip Milner,0.068609156,Shot,"[98.3, 32.0]","[115.4, 37.5, 0.8]",Saved
+3744,Liverpool,72,00:27:04.564,Christian Benteke Liolo,0.03112275,Shot,"[91.4, 38.2]","[120.0, 36.0, 4.3]",Off T
+3745,Liverpool,78,00:33:18.364,Martin Škrtel,0.050695863,Shot,"[109.7, 39.7]","[108.7, 20.7]",Wayward
+3746,Liverpool,80,00:35:52.912,Philippe Coutinho Correia,0.04754595,Shot,"[109.3, 25.3]","[117.1, 35.2, 0.9]",Saved
