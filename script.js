@@ -63,6 +63,7 @@ svg.append("text")
   .attr("text-anchor", "middle")
   .text("100%")
 
+selectGame("data/liverpools20150809stokecity.csv");
 d3.select("#gameDropdown").on("change", function () {const selectedFile = d3.select(this).property("value");    //https://d3-graph-gallery.com/graph/interactivity_button.html
   selectGame(selectedFile);
 })     
